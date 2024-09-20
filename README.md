@@ -1,2 +1,2 @@
-# rahila
+linux
 creating repo for practice
